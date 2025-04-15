@@ -619,32 +619,32 @@
         {
             "DEFENSE": 25,
             "CRITICAL_DAMAGE": -1,
-            "SPEED": -1
+            "WALK_SPEED": -1
         },
         {
             "DEFENSE": 35,
             "CRITICAL_DAMAGE": -2,
-            "SPEED": -1
+            "WALK_SPEED": -1
         },
         {
             "DEFENSE": 50,
             "CRITICAL_DAMAGE": -2,
-            "SPEED": -1
+            "WALK_SPEED": -1
         },
         {
             "DEFENSE": 65,
             "CRITICAL_DAMAGE": -3,
-            "SPEED": -1
+            "WALK_SPEED": -1
         },
         {
             "DEFENSE": 80,
             "CRITICAL_DAMAGE": -5,
-            "SPEED": -1
+            "WALK_SPEED": -1
         },
         {
             "DEFENSE": 110,
             "CRITICAL_DAMAGE": -7,
-            "SPEED": -1
+            "WALK_SPEED": -1
         }
     ],
     "light": [
@@ -653,7 +653,7 @@
             "DEFENSE": 1,
             "CRITICAL_CHANCE": 1,
             "CRITICAL_DAMAGE": 1,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "ATTACK_SPEED": 1
         },
         {
@@ -661,7 +661,7 @@
             "DEFENSE": 2,
             "CRITICAL_CHANCE": 1,
             "CRITICAL_DAMAGE": 2,
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "ATTACK_SPEED": 2
         },
         {
@@ -669,7 +669,7 @@
             "DEFENSE": 3,
             "CRITICAL_CHANCE": 2,
             "CRITICAL_DAMAGE": 3,
-            "SPEED": 3,
+            "WALK_SPEED": 3,
             "ATTACK_SPEED": 3
         },
         {
@@ -677,7 +677,7 @@
             "DEFENSE": 4,
             "CRITICAL_CHANCE": 2,
             "CRITICAL_DAMAGE": 4,
-            "SPEED": 4,
+            "WALK_SPEED": 4,
             "ATTACK_SPEED": 4
         },
         {
@@ -685,7 +685,7 @@
             "DEFENSE": 5,
             "CRITICAL_CHANCE": 3,
             "CRITICAL_DAMAGE": 5,
-            "SPEED": 5,
+            "WALK_SPEED": 5,
             "ATTACK_SPEED": 5
         },
         {
@@ -693,7 +693,7 @@
             "DEFENSE": 6,
             "CRITICAL_CHANCE": 3,
             "CRITICAL_DAMAGE": 6,
-            "SPEED": 6,
+            "WALK_SPEED": 6,
             "ATTACK_SPEED": 6
         }
     ],
@@ -703,7 +703,7 @@
             "DEFENSE": 2,
             "STRENGTH": 2,
             "CRITICAL_CHANCE": 1,
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "INTELLIGENCE": 20
         },
         {
@@ -711,7 +711,7 @@
             "DEFENSE": 3,
             "STRENGTH": 4,
             "CRITICAL_CHANCE": 2,
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "INTELLIGENCE": 25
         },
         {
@@ -719,7 +719,7 @@
             "DEFENSE": 6,
             "STRENGTH": 6,
             "CRITICAL_CHANCE": 3,
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "INTELLIGENCE": 30
         },
         {
@@ -727,7 +727,7 @@
             "DEFENSE": 8,
             "STRENGTH": 8,
             "CRITICAL_CHANCE": 4,
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "INTELLIGENCE": 40
         },
         {
@@ -735,7 +735,7 @@
             "DEFENSE": 10,
             "STRENGTH": 10,
             "CRITICAL_CHANCE": 5,
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "INTELLIGENCE": 50
         },
         {
@@ -743,7 +743,7 @@
             "DEFENSE": 12,
             "STRENGTH": 12,
             "CRITICAL_CHANCE": 6,
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "INTELLIGENCE": 60
         }
     ],
@@ -754,7 +754,7 @@
             "STRENGTH": 2,
             "CRITICAL_CHANCE": 2,
             "CRITICAL_DAMAGE": 2,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "INTELLIGENCE": 2,
             "ATTACK_SPEED": 1
         },
@@ -764,7 +764,7 @@
             "STRENGTH": 3,
             "CRITICAL_CHANCE": 4,
             "CRITICAL_DAMAGE": 3,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "INTELLIGENCE": 3,
             "ATTACK_SPEED": 1
         },
@@ -774,7 +774,7 @@
             "STRENGTH": 4,
             "CRITICAL_CHANCE": 6,
             "CRITICAL_DAMAGE": 4,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "INTELLIGENCE": 4,
             "ATTACK_SPEED": 2
         },
@@ -784,7 +784,7 @@
             "STRENGTH": 6,
             "CRITICAL_CHANCE": 8,
             "CRITICAL_DAMAGE": 6,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "INTELLIGENCE": 6,
             "ATTACK_SPEED": 3
         },
@@ -794,7 +794,7 @@
             "STRENGTH": 8,
             "CRITICAL_CHANCE": 10,
             "CRITICAL_DAMAGE": 8,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "INTELLIGENCE": 8,
             "ATTACK_SPEED": 4
         },
@@ -804,7 +804,7 @@
             "STRENGTH": 10,
             "CRITICAL_CHANCE": 12,
             "CRITICAL_DAMAGE": 10,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "INTELLIGENCE": 10,
             "ATTACK_SPEED": 5
         }
@@ -870,32 +870,32 @@
     "wise": [
         {
             "HEALTH": 6,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "INTELLIGENCE": 25
         },
         {
             "HEALTH": 8,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "INTELLIGENCE": 50
         },
         {
             "HEALTH": 10,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "INTELLIGENCE": 75
         },
         {
             "HEALTH": 12,
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "INTELLIGENCE": 100
         },
         {
             "HEALTH": 15,
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "INTELLIGENCE": 125
         },
         {
             "HEALTH": 20,
-            "SPEED": 3,
+            "WALK_SPEED": 3,
             "INTELLIGENCE": 150
         }
     ],
@@ -960,39 +960,39 @@
     "hefty": [
         {
             "DEFENSE": 7,
-            "SPEED": -1,
+            "WALK_SPEED": -1,
             "CRITICAL_DAMAGE": -2
         },
         {
             "DEFENSE": 9,
-            "SPEED": -1,
+            "WALK_SPEED": -1,
             "CRITICAL_DAMAGE": -2
         },
         {
             "DEFENSE": 12,
-            "SPEED": -1,
+            "WALK_SPEED": -1,
             "CRITICAL_DAMAGE": -3
         },
         {
             "DEFENSE": 15,
-            "SPEED": -1,
+            "WALK_SPEED": -1,
             "CRITICAL_DAMAGE": -3
         },
         {
             "DEFENSE": 20,
-            "SPEED": -1,
+            "WALK_SPEED": -1,
             "CRITICAL_DAMAGE": -4
         },
         {
             "DEFENSE": 25,
-            "SPEED": -1,
+            "WALK_SPEED": -1,
             "CRITICAL_DAMAGE": -5
         }
     ],
     "soft": [
         {
             "DEFENSE": 1,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 2,
             "CRITICAL_CHANCE": 1,
             "CRITICAL_DAMAGE": 1,
@@ -1000,7 +1000,7 @@
         },
         {
             "DEFENSE": 1,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 3,
             "CRITICAL_CHANCE": 1,
             "CRITICAL_DAMAGE": 1,
@@ -1008,7 +1008,7 @@
         },
         {
             "DEFENSE": 1,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 4,
             "CRITICAL_CHANCE": 1,
             "CRITICAL_DAMAGE": 1,
@@ -1016,7 +1016,7 @@
         },
         {
             "DEFENSE": 1,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 5,
             "CRITICAL_CHANCE": 1,
             "CRITICAL_DAMAGE": 2,
@@ -1024,7 +1024,7 @@
         },
         {
             "DEFENSE": 2,
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "HEALTH": 6,
             "CRITICAL_CHANCE": 1,
             "CRITICAL_DAMAGE": 2,
@@ -1032,7 +1032,7 @@
         },
         {
             "DEFENSE": 2,
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "HEALTH": 7,
             "CRITICAL_CHANCE": 1,
             "CRITICAL_DAMAGE": 2,
@@ -1043,7 +1043,7 @@
         {
             "STRENGTH": 0,
             "DEFENSE": 1,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 1,
             "CRITICAL_CHANCE": 1,
             "INTELLIGENCE": 3
@@ -1051,7 +1051,7 @@
         {
             "STRENGTH": 1,
             "DEFENSE": 2,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 1,
             "CRITICAL_CHANCE": 1,
             "INTELLIGENCE": 3
@@ -1059,7 +1059,7 @@
         {
             "STRENGTH": 2,
             "DEFENSE": 2,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 2,
             "CRITICAL_CHANCE": 1,
             "INTELLIGENCE": 4
@@ -1067,7 +1067,7 @@
         {
             "STRENGTH": 2,
             "DEFENSE": 3,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 2,
             "CRITICAL_CHANCE": 2,
             "INTELLIGENCE": 5
@@ -1075,7 +1075,7 @@
         {
             "STRENGTH": 3,
             "DEFENSE": 3,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 3,
             "CRITICAL_CHANCE": 2,
             "INTELLIGENCE": 6
@@ -1083,7 +1083,7 @@
         {
             "STRENGTH": 3,
             "DEFENSE": 4,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 4,
             "CRITICAL_CHANCE": 2,
             "INTELLIGENCE": 7
@@ -1093,7 +1093,7 @@
         {
             "STRENGTH": 0,
             "DEFENSE": 1,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 1,
             "CRITICAL_CHANCE": 1,
             "CRITICAL_DAMAGE": 1,
@@ -1103,7 +1103,7 @@
         {
             "STRENGTH": 1,
             "DEFENSE": 1,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 1,
             "CRITICAL_CHANCE": 1,
             "CRITICAL_DAMAGE": 2,
@@ -1113,7 +1113,7 @@
         {
             "STRENGTH": 1,
             "DEFENSE": 1,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 2,
             "CRITICAL_CHANCE": 2,
             "CRITICAL_DAMAGE": 2,
@@ -1123,7 +1123,7 @@
         {
             "STRENGTH": 1,
             "DEFENSE": 2,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 2,
             "CRITICAL_CHANCE": 2,
             "CRITICAL_DAMAGE": 2,
@@ -1133,7 +1133,7 @@
         {
             "STRENGTH": 2,
             "DEFENSE": 3,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 2,
             "CRITICAL_CHANCE": 3,
             "CRITICAL_DAMAGE": 2,
@@ -1143,7 +1143,7 @@
         {
             "STRENGTH": 2,
             "DEFENSE": 3,
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 3,
             "CRITICAL_CHANCE": 3,
             "CRITICAL_DAMAGE": 2,
@@ -1211,111 +1211,111 @@
     ],
     "brilliant": [
         {
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 1,
             "INTELLIGENCE": 5
         },
         {
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "HEALTH": 1,
             "INTELLIGENCE": 6
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "HEALTH": 2,
             "INTELLIGENCE": 7
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "HEALTH": 3,
             "INTELLIGENCE": 9
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "HEALTH": 4,
             "INTELLIGENCE": 12
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "HEALTH": 5,
             "INTELLIGENCE": 15
         }
     ],
     "unyielding": [
         {
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "MINING_FORTUNE": 1
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "MINING_FORTUNE": 2
         },
         {
-            "SPEED": 3,
+            "WALK_SPEED": 3,
             "MINING_FORTUNE": 3
         },
         {
-            "SPEED": 5,
+            "WALK_SPEED": 5,
             "MINING_FORTUNE": 4
         },
         {
-            "SPEED": 7,
+            "WALK_SPEED": 7,
             "MINING_FORTUNE": 5
         },
         {
-            "SPEED": 9,
+            "WALK_SPEED": 9,
             "MINING_FORTUNE": 6
         }
     ],
     "prospector's": [
         {
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "MINING_WISDOM": 0.5
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "MINING_WISDOM": 0.75
         },
         {
-            "SPEED": 3,
+            "WALK_SPEED": 3,
             "MINING_WISDOM": 1
         },
         {
-            "SPEED": 5,
+            "WALK_SPEED": 5,
             "MINING_WISDOM": 1.25
         },
         {
-            "SPEED": 7,
+            "WALK_SPEED": 7,
             "MINING_WISDOM": 2
         },
         {
-            "SPEED": 9,
+            "WALK_SPEED": 9,
             "MINING_WISDOM": 2.5
         }
     ],
     "excellent": [
         {
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "MINING_SPEED": 4
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "MINING_SPEED": 8
         },
         {
-            "SPEED": 3,
+            "WALK_SPEED": 3,
             "MINING_SPEED": 12
         },
         {
-            "SPEED": 4,
+            "WALK_SPEED": 4,
             "MINING_SPEED": 16
         },
         {
-            "SPEED": 5,
+            "WALK_SPEED": 5,
             "MINING_SPEED": 20
         },
         {
-            "SPEED": 7,
+            "WALK_SPEED": 7,
             "MINING_SPEED": 25
         }
     ],
@@ -1373,32 +1373,32 @@
     ],
     "great": [
         {
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "STRENGTH": 2,
             "CRITICAL_DAMAGE": 2
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "STRENGTH": 4,
             "CRITICAL_DAMAGE": 4
         },
         {
-            "SPEED": 3,
+            "WALK_SPEED": 3,
             "STRENGTH": 6,
             "CRITICAL_DAMAGE": 6
         },
         {
-            "SPEED": 4,
+            "WALK_SPEED": 4,
             "STRENGTH": 9,
             "CRITICAL_DAMAGE": 9
         },
         {
-            "SPEED": 5,
+            "WALK_SPEED": 5,
             "STRENGTH": 12,
             "CRITICAL_DAMAGE": 12
         },
         {
-            "SPEED": 7,
+            "WALK_SPEED": 7,
             "STRENGTH": 16,
             "CRITICAL_DAMAGE": 16
         }
@@ -1431,80 +1431,80 @@
     ],
     "lush": [
         {
-            "SPEED": 3,
+            "WALK_SPEED": 3,
             "FORAGING_FORTUNE": 1
         },
         {
-            "SPEED": 4,
+            "WALK_SPEED": 4,
             "FORAGING_FORTUNE": 1
         },
         {
-            "SPEED": 5,
+            "WALK_SPEED": 5,
             "FORAGING_FORTUNE": 2
         },
         {
-            "SPEED": 7,
+            "WALK_SPEED": 7,
             "FORAGING_FORTUNE": 2
         },
         {
-            "SPEED": 10,
+            "WALK_SPEED": 10,
             "FORAGING_FORTUNE": 3
         },
         {
-            "SPEED": 15,
+            "WALK_SPEED": 15,
             "FORAGING_FORTUNE": 5
         }
     ],
     "lumberjack's": [
         {
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "FORAGING_WISDOM": 0.5
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "FORAGING_WISDOM": 0.75
         },
         {
-            "SPEED": 3,
+            "WALK_SPEED": 3,
             "FORAGING_WISDOM": 1
         },
         {
-            "SPEED": 5,
+            "WALK_SPEED": 5,
             "FORAGING_WISDOM": 1.25
         },
         {
-            "SPEED": 7,
+            "WALK_SPEED": 7,
             "FORAGING_WISDOM": 2
         },
         {
-            "SPEED": 9,
+            "WALK_SPEED": 9,
             "FORAGING_WISDOM": 2.5
         }
     ],
     "double-bit": [
         {
             "FORAGING_FORTUNE": 1,
-            "SPEED": 1
+            "WALK_SPEED": 1
         },
         {
             "FORAGING_FORTUNE": 2,
-            "SPEED": 2
+            "WALK_SPEED": 2
         },
         {
             "FORAGING_FORTUNE": 3,
-            "SPEED": 2
+            "WALK_SPEED": 2
         },
         {
             "FORAGING_FORTUNE": 4,
-            "SPEED": 3
+            "WALK_SPEED": 3
         },
         {
             "FORAGING_FORTUNE": 5,
-            "SPEED": 5
+            "WALK_SPEED": 5
         },
         {
             "FORAGING_FORTUNE": 6,
-            "SPEED": 7
+            "WALK_SPEED": 7
         }
     ],
     "robust": [
@@ -1529,73 +1529,73 @@
     ],
     "zooming": [
         {
-            "SPEED": 5
+            "WALK_SPEED": 5
         },
         {
-            "SPEED": 8
+            "WALK_SPEED": 8
         },
         {
-            "SPEED": 12
+            "WALK_SPEED": 12
         },
         {
-            "SPEED": 16
+            "WALK_SPEED": 16
         },
         {
-            "SPEED": 20
+            "WALK_SPEED": 20
         },
         {
-            "SPEED": 25
+            "WALK_SPEED": 25
         }
     ],
     "peasant's": [
         {
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "FARMING_WISDOM": 0.5
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "FARMING_WISDOM": 0.75
         },
         {
-            "SPEED": 3,
+            "WALK_SPEED": 3,
             "FARMING_WISDOM": 1
         },
         {
-            "SPEED": 5,
+            "WALK_SPEED": 5,
             "FARMING_WISDOM": 1.25
         },
         {
-            "SPEED": 7,
+            "WALK_SPEED": 7,
             "FARMING_WISDOM": 2
         },
         {
-            "SPEED": 9,
+            "WALK_SPEED": 9,
             "FARMING_WISDOM": 2.5
         }
     ],
     "green thumb": [
         {
-            "SPEED": 1,
+            "WALK_SPEED": 1,
             "FARMING_FORTUNE": 1
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "FARMING_FORTUNE": 2
         },
         {
-            "SPEED": 2,
+            "WALK_SPEED": 2,
             "FARMING_FORTUNE": 3
         },
         {
-            "SPEED": 3,
+            "WALK_SPEED": 3,
             "FARMING_FORTUNE": 4
         },
         {
-            "SPEED": 5,
+            "WALK_SPEED": 5,
             "FARMING_FORTUNE": 5
         },
         {
-            "SPEED": 7,
+            "WALK_SPEED": 7,
             "FARMING_FORTUNE": 6
         }
     ]
